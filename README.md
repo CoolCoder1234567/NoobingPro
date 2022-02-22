@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobingpro&label=Profile%20views&color=0e75b6&style=flat" alt="noobingpro" /> </p>
 
-- 🔅 Currently Learning [Javascript](Python)
+- 🔅 Currently Learning [Javascript][Python]
 
 - 📫 How to reach me **Noobingpros@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
